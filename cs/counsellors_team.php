@@ -56,7 +56,7 @@ include 'navbar.html';
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Nabeelah_Siddiqui.jpg" class="lazyload rounded-circle">
             </div>
-            <h4>Nabeelah Siddiqui</h4>
+            <h4>Ms. Nabeelah Siddiqui</h4>
             <h5><strong>Junior Counsellor</strong></h5>
             <!-- <h5>M.A. Clinical Psychology</h5> -->
             <h5><strong>Contact : </strong>+91 8770205067</h5>
@@ -68,7 +68,7 @@ include 'navbar.html';
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Sahib Kumar Sunani.png" class="lazyload rounded-circle">
             </div>
-            <h4>Sahib Kumar Sunani</h4>
+            <h4>Mr. Sahib Kumar Sunani</h4>
             <h5><strong>Junior Counsellor</strong></h5>
             <h5><strong>Mail : </strong>sahibks@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
@@ -78,7 +78,7 @@ include 'navbar.html';
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Sachin Nanda.jpeg" class="lazyload rounded-circle">
             </div>
-            <h4>Sachin Nanda</h4>
+            <h4>Mr. Sachin Nanda</h4>
             <h5><strong>Junior Counsellor</strong></h5>
 
             <h5><strong>Mail : </strong>sahinkn@iitj.ac.in </h5>
@@ -89,7 +89,7 @@ include 'navbar.html';
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/Elizabeth Wilson.jpeg" class="lazyload rounded-circle">
             </div>
-            <h4>Elizabeth Wilson</h4>
+            <h4>Ms. Elizabeth Wilson</h4>
             <h5><strong>Junior Counsellor</strong></h5>
             <h5><strong>Mail : </strong>elizabethw@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
