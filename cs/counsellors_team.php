@@ -60,7 +60,7 @@ include 'navbar.html';
             <h5><strong>Junior Counsellor</strong></h5>
             <!-- <h5>M.A. Clinical Psychology</h5> -->
             <h5><strong>Contact : </strong>+91 8770205067</h5>
-            <h5><strong>Mail : </strong>nabeelah@osstaff.iitj.ac.in</h5>
+            <h5><strong>Mail : </strong>nabeelah@iitj.ac.in</h5>
             <!-- <a class="icons-sm email-ic" href="mailto:Nabeelah@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
 
