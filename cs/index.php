@@ -34,8 +34,8 @@ include 'navbar.html';
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="2"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="3"></li>
         <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="4"></li>
-        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="5"></li>
-        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="6"></li>
+        <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="5"></li>
+        <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="6"></li> -->
         <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="7"></li> -->
         <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="8"></li> -->
         <!-- <li data-target="#carousel-example-1" data-interval="5000" data-slide-to="9"></li> -->
@@ -127,6 +127,19 @@ include 'navbar.html';
             </div>
         </div>
 
+        <!-- <div class="carousel-item view">
+        <?php
+        // include 'callout.html';
+        ?>
+            <div class="mask hm-black-light">
+                <div class="full-bg-img"></div>
+            </div>
+            <div class="carousel-caption">
+                <ul class="animated fadeInUp">
+                    <li><h2 class="h2-responsive">EDM night during IGNUS</h2></li>
+                </ul>
+            </div>
+        </div>
         <div class="carousel-item view">
         <?php
         // include 'callout.html';
@@ -136,24 +149,10 @@ include 'navbar.html';
             </div>
             <div class="carousel-caption">
                 <ul class="animated fadeInUp">
-                    <!-- <li><h2 class="h2-responsive">EDM night during IGNUS</h2></li> -->
+                    <li><h2 class="h2-responsive">Volleyball match during VARCHAS</h2></li>
                 </ul>
             </div>
-        </div>
-        <!--Slide -->
-        <div class="carousel-item view">
-        <?php
-        // include 'callout.html';
-        ?>
-            <div class="mask hm-black-light">
-                <div class="full-bg-img"></div>
-            </div>
-            <div class="carousel-caption">
-                <ul class="animated fadeInUp">
-                    <!-- <li><h2 class="h2-responsive">Volleyball match during VARCHAS</h2></li> -->
-                </ul>
-            </div>
-        </div>
+        </div> -->
         <!--/.Slide -->
         <!-- <div class="carousel-item view">
         <?php
