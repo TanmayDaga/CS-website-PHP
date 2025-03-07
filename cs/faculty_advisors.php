@@ -52,7 +52,7 @@ include 'navbar.html';
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/ankitasharma.jpg" class="lazyload rounded-circle">
             </div>
-            <h4>Ankita Sharma</h4>
+            <h4>Prof. Ankita Sharma</h4>
             <h5>Dean of Student Affairs</h5>
             <h5>Chairperson (Ex-officio)</h5>
             <h5><strong>Email: </strong>ankitasharma@iitj.ac.in</h5>

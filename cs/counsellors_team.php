@@ -46,7 +46,7 @@ include 'navbar.html';
             </div>
             <h4>Dr Anjali Bhatia</h4>
             <h5><strong>Counsellor</strong></h5>
-            <h5>PhD Psychology</h5>
+            <!-- <h5>PhD Psychology</h5> -->
             <h5><strong>Contact : </strong>+91 9897347663 </h5>
             <h5><strong>Mail : </strong>anjalibhatia@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
@@ -54,11 +54,11 @@ include 'navbar.html';
         
         <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/Nabillah Mam.jpeg" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/Nabeelah_Siddiqui.jpg" class="lazyload rounded-circle">
             </div>
-            <h4>Ms Nabeelah Siddiqui</h4>
+            <h4>Nabeelah Siddiqui</h4>
             <h5><strong>Junior Counsellor</strong></h5>
-            <h5>M.A. Clinical Psychology</h5>
+            <!-- <h5>M.A. Clinical Psychology</h5> -->
             <h5><strong>Contact : </strong>+91 8770205067</h5>
             <h5><strong>Mail : </strong>nabeelah@osstaff.iitj.ac.in</h5>
             <!-- <a class="icons-sm email-ic" href="mailto:Nabeelah@osstaff.iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
@@ -66,7 +66,7 @@ include 'navbar.html';
 
         <div class="col-lg-6 col-md-12 mb-r animate-profile">
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/Sahib Kumar Sunani.jpeg" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/Sahib Kumar Sunani.png" class="lazyload rounded-circle">
             </div>
             <h4>Sahib Kumar Sunani</h4>
             <h5><strong>Junior Counsellor</strong></h5>
@@ -90,7 +90,7 @@ include 'navbar.html';
                 <img src="images/sqloader.gif" data-src="images/avatar/Elizabeth Wilson.jpeg" class="lazyload rounded-circle">
             </div>
             <h4>Elizabeth Wilson</h4>
-            <h5>Junior Counsellor</h5>
+            <h5><strong>Junior Counsellor</strong></h5>
             <h5><strong>Mail : </strong>elizabethw@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
@@ -99,6 +99,14 @@ include 'navbar.html';
   
        
     </div>
+ <div class="container text-center mt-5">
+
+    <p>Other Emails</p>
+    <h5> <a href="mailto:studentcounsellor@iitj.ac.in">studentcounsellor@iitj.ac.in</a> | 
+    <a href="mailto:juniorcounsellor@iitj.ac.in">juniorcounsellor@iitj.ac.in</a></h5>
+</div>
+
+
  
 </section>
 
