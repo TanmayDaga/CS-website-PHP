@@ -44,7 +44,7 @@ include 'navbar.html';
             <div class="avatar">
                 <img src="images/sqloader.gif" data-src="images/avatar/anjali_bhatia.jpg" class="lazyload rounded-circle">
             </div>
-            <h4>Dr Anjali Bhatia</h4>
+            <h4>Dr. Anjali Bhatia</h4>
             <h5><strong>Counsellor</strong></h5>
             <!-- <h5>PhD Psychology</h5> -->
             <h5><strong>Contact : </strong>+91 9897347663 </h5>
