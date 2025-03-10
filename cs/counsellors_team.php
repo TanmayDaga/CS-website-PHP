@@ -34,7 +34,7 @@ include 'navbar.html';
         </div>
     </div>
 
-    <h1 class="section-heading">Wellbeing Team</h1>
+    <h1 class="section-heading">Counselling Team</h1>
     <!--Section description-->
     <p class="section-description"></p>
     <div class="row justify-content-center text-center">
@@ -70,6 +70,7 @@ include 'navbar.html';
             </div>
             <h4>Mr. Sahib Kumar Sunani</h4>
             <h5><strong>Junior Counsellor</strong></h5>
+            <h5><strong>Contact : </strong>+91 7073685694 </h5>
             <h5><strong>Mail : </strong>sahibks@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
@@ -80,7 +81,7 @@ include 'navbar.html';
             </div>
             <h4>Mr. Sachin Nanda</h4>
             <h5><strong>Junior Counsellor</strong></h5>
-
+            <h5><strong>Contact : </strong>+91 7751885222 </h5>
             <h5><strong>Mail : </strong>sahinkn@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
@@ -91,6 +92,7 @@ include 'navbar.html';
             </div>
             <h4>Ms. Elizabeth Wilson</h4>
             <h5><strong>Junior Counsellor</strong></h5>
+            <h5><strong>Contact : </strong>+91 7877634342 </h5>
             <h5><strong>Mail : </strong>elizabethw@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>

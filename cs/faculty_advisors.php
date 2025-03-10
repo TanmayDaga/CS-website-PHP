@@ -2,7 +2,7 @@
     include 'head.html';
 ?>
 <head>
-    <title>Faculty Advisors</title>
+    <title>Institute Students Wellbeing Committee (ISWC)</title>
     <style>
         table {
             width: 100%;
@@ -33,7 +33,7 @@ include 'navbar.html';
 <section class="section team-section container">
 
     <!--Section heading-->
-    <h1 class="section-heading">Faculty Advisors</h1>
+    <h1 class="section-heading">Institute Students Wellbeing Committee (ISWC)</h1>
     <!--Section description-->
     <p class="section-description"></p>
     <div class="row text-center">
@@ -50,7 +50,7 @@ include 'navbar.html';
         </div> -->
         <div class="col-lg-12 col-md-12 mb-r">
             <div class="avatar">
-                <img src="images/sqloader.gif" data-src="images/avatar/ankitasharma.jpg" class="lazyload rounded-circle">
+                <img src="images/sqloader.gif" data-src="images/avatar/Ankita_sharma.jpg" class="lazyload rounded-circle">
             </div>
             <h4>Prof. Ankita Sharma</h4>
             <h5>Dean of Student Affairs</h5>
@@ -123,10 +123,11 @@ include 'navbar.html';
             <a class="icons-sm email-ic" href="mailto:indranil@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a>
         </div> -->
     </div>
-    <h2>Institute Students Wellbeing Committee (ISWC)</h2>
-    <p>Pursuant to the approval of the Board of Governors in its 37th Meeting held on 29th June 2024 towards constitution of the various Advisory Committees, the following <strong>Institute Students Wellbeing Committee (ISWC)</strong> is constituted for suggesting various policies to the Dean of Students Affairs (DOSA):</p>
+
     
-     
+    <h2 style="text-align:center;width:100%;margin-bottom:3rem">Faculty Advisors</h2>
+
+ 
     <table>
         <!-- <tr>
             <td>1.</td>
