@@ -82,7 +82,7 @@ include 'navbar.html';
             <h4>Mr. Sachin Nanda</h4>
             <h5><strong>Junior Counsellor</strong></h5>
             <h5><strong>Contact : </strong>+91 7751885222 </h5>
-            <h5><strong>Mail : </strong>sachinkn@iitj.ac.in </h5>
+            <h5><strong>Mail : </strong>sachin@iitj.ac.in </h5>
             <!-- <a class="icons-sm email-ic" href="mailto:anjalibhatia@iitj.ac.in"><i class="fa fa-envelope-o"> </i></a> -->
         </div>
 
